@@ -9,7 +9,7 @@ permalink: /support/
 
 ## Contact
 
-- Email: **support@mydomain.com**
+- Email: **ayyubirs@gmail.com**
 - Typical response time: **1–2 business days**
 - Please include: app version, iOS version, device model, and your device ID (if available).
 
@@ -42,13 +42,13 @@ permalink: /support/
 
 ## FAQs
 
-**Does the app work without an account?**  
+**Does the app work without an account?**
 Yes for local control in many setups, but cloud sync and remote access may require an account.
 
-**Can multiple family members use the same devices?**  
+**Can multiple family members use the same devices?**
 Yes. Devices can be shared via invitation or account sharing (implementation may vary).
 
-**How do I transfer a device to a new owner?**  
+**How do I transfer a device to a new owner?**
 Use “Remove / Unclaim” in the app (or perform a factory reset) so the next user can claim it.
 
 ## Legal and privacy requests

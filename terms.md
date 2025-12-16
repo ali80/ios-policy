@@ -51,5 +51,4 @@ You may stop using the service at any time. We may suspend access if we reasonab
 
 ## 10) Contact
 
-Support: **support@mydomain.com**  
-Legal: **legal@mydomain.com**
+Support: **ayyubirs@gmail.com**

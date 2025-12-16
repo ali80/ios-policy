@@ -22,7 +22,7 @@ If you create an account, we may collect:
 - Account identifiers (user ID)
 - Region and preferred language
 
-If you use the app without an account, some features may be unavailable (e.g., cloud sync across devices).
+You can also use the app without an account but some features may be unavailable (e.g., cloud sync across devices).
 
 ### 2) Device and app information
 To connect to your IoT devices and support the app, we may collect:
@@ -30,7 +30,6 @@ To connect to your IoT devices and support the app, we may collect:
 - Device identifiers (device ID, model, firmware version)
 - Connectivity metadata (online/offline status, last sync time)
 - App version, OS version, device type
-- Crash logs and performance metrics (when enabled)
 
 ### 3) Usage and automation data
 Depending on features you enable:
@@ -54,7 +53,6 @@ We use information to:
 - Maintain security and prevent fraud/abuse
 - Send notifications you request (alerts, status changes)
 - Diagnose issues, fix bugs, and improve performance
-- Comply with legal obligations
 
 ## Sharing and disclosure
 
@@ -91,7 +89,9 @@ See **Privacy Choices**: [/privacy-choices/](/privacy-choices/)
 
 ## Children
 
-The app is not intended for children under the age required by local law to consent to data processing. Do not use the app if you are under that age.
+The app is intended for a general audience and is not directed to children under 13.
+We do not knowingly collect personal information from children under 13. If you are a parent/guardian
+and believe a child provided personal information, contact us and we will delete it.
 
 ## Changes
 
@@ -99,5 +99,4 @@ We may update this policy. We’ll revise the “Last updated” date above and,
 
 ## Contact
 
-Privacy questions: **privacy@mydomain.com**  
-Support: **support@mydomain.com**
+Support: **ayyubirs@gmail.com**

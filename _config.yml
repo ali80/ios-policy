@@ -1,0 +1,16 @@
+title: "Your App Name"
+description: "Support and legal information for the Your App Name iOS app."
+lang: en
+timezone: Europe/Berlin
+
+# If you use a custom domain like ios.mydomain.com, set:
+url: "https://ios.mydomain.com"
+baseurl: ""
+
+# GitHub Pages safe settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Optional: show future-proof meta
+plugins: []

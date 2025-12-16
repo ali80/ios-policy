@@ -99,4 +99,4 @@ We may update this policy. We’ll revise the “Last updated” date above and,
 
 ## Contact
 
-Support: **ayyubirs@gmail.com**
+Support: **aabanapp@gmail.com**

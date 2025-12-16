@@ -17,16 +17,16 @@ You can typically manage your information in the app:
 
 ## Request a data export
 
-Email **privacy@mydomain.com** with subject: **“Data export request”**  
+Email **aabanapp@gmail.com** with subject: **“Data export request”**
 Include the email/phone used for your account.
 
 ## Delete your account
 
-**Option A (recommended): In-app deletion**  
+**Option A (recommended): In-app deletion**
 If the app includes an “Delete account” button, use it to permanently delete your account.
 
-**Option B: Request deletion by email**  
-Email **privacy@mydomain.com** with subject: **“Account deletion request”**  
+**Option B: Request deletion by email**
+Email **aabanapp@gmail.com** with subject: **“Account deletion request”**
 Include:
 - The email/phone used for your account
 - Confirmation you want deletion

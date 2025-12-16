@@ -9,7 +9,7 @@ permalink: /support/
 
 ## Contact
 
-- Email: **ayyubirs@gmail.com**
+- Email: **aabanapp@gmail.com**
 - Typical response time: **1–2 business days**
 - Please include: app version, iOS version, device model, and your device ID (if available).
 

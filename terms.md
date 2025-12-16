@@ -51,4 +51,4 @@ You may stop using the service at any time. We may suspend access if we reasonab
 
 ## 10) Contact
 
-Support: **ayyubirs@gmail.com**
+Support: **aabanapp@gmail.com**

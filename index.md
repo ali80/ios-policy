@@ -26,4 +26,4 @@ This is a companion iOS app for IoT devices such as smart timers, sensors, and c
 
 ## Company & contact
 
-- Support email: **ayyubirs@gmail.com**
+- Support email: **aabanapp@gmail.com**
